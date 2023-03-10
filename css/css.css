@@ -1,0 +1,37 @@
+.article-img{
+    background-color: #3B3936;
+    width: 300px;
+    padding: 30px;
+   
+}
+.article{
+  background-color: #3B3936;
+  width: 360px;
+  text-align:center;
+
+}
+.text{
+  text-align:center;
+  background-color: #BD2A2E;
+  color:black;
+  padding-top:30px;
+  margin:0;
+
+}
+.text1{
+  text-align:center;
+  background-color: #BD2A2E;
+  color:  #3B3936;;
+  text-decoration: none;
+
+}
+.section{
+  margin:0;
+  background-color: #B2BEBF;
+}
+.body{
+  margin-top:0;
+  margin-left:0;
+  margin-right:0;
+  background-color: #B2BEBF;
+}

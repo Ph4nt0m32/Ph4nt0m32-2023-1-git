@@ -1,0 +1,20 @@
+.whitediv {
+  display: inline-block;
+  padding: 30px;
+  color: white;
+  font-size: 40px;
+  background-color: white;
+  padding-top:none;
+}
+.blackdiv{
+  display: inline-block;
+  padding:30px;
+  color: white;
+  font-size: 40px;
+  background-color: black;
+}
+.article{
+  width: 188px;
+  height:188px;
+  border: 5px solid black;
+}
