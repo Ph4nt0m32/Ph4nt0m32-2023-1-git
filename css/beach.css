@@ -1,0 +1,85 @@
+.large{
+  height: 100vh;
+  background-image: url(../img/beach.jpg);
+  background-repeat: no-repeat;
+  background-size: 2000px 967px;
+  background-attachment:fixed;
+}
+.body{
+  margin-top:0px;
+  margin-left: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+}
+.top{
+  height:38%;
+  width:100%;
+}
+.bottom{
+    height:38%;
+    width:100%;
+  }
+.center{
+  height:24%;
+  width:100%;
+  text-align: center;
+}
+.text{
+  margin-bottom:0px;
+  color:#926239;
+  font-size: 60px;
+  font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+}
+p{
+  margin-top:0px;
+  color:#926239;;
+  font-size:20px;
+  font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+}
+.button{
+  font-size: 18px;
+  text-decoration: none;
+  color: #926239;
+  border: #926239 1px solid;
+  padding: 10px 20px;
+  border-radius: 10px;
+  margin-top: 20px;
+}
+.section{
+  height: 130px;
+  background-color: #926239;
+  padding:20px;
+}
+.text1{
+  color:white;
+  font-size: 1193px 203.13px;
+  text-align:center;
+}
+.section1{
+  height: 130px;
+  background-color:white;
+  padding:20px;
+}
+.text1-1{
+  color:#926239;
+  font-size: 1193px 203.13px;
+  text-align:center;
+}
+.section-1{
+ display:flex;
+}
+.box{
+  
+  font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+  padding:20px;
+  color:white;
+  background-color:#926239;
+  font-size: 17px;
+}
+.box-1{
+  font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+  padding:20px;
+  color:#926239;
+  background-color:white;
+  font-size: 17px;
+}
